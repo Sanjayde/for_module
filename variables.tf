@@ -8,7 +8,7 @@ variable "inst_type" {
 
 variable "sub_id" {
     type = string
-    #default = "subnet-05a9ffd7b7df35128"
+    default = "subnet-05a9ffd7b7df35128"
 }
 
 variable "ami" {
