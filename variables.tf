@@ -1,4 +1,5 @@
 variable "inst_name" {
+    description = "for testing state file"
     type = string
 }
 variable "inst_type" {
